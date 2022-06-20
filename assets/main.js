@@ -3,5 +3,5 @@ function getInputValue(){
     var inputVal = document.getElementById("someinput").value;
     
     // Displaying the value
-    alert(inputVal);
+    alert(`Hello ${inputVal}, welcome to the bootcamp.`);
 }
